@@ -1,1 +1,1 @@
-export const SERVER_URL = "https://mp-server-1-w7tr.onrender.com/";
+export const SERVER_URL = "https://mp-server-1-w7tr.onrender.com";
